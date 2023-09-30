@@ -1,4 +1,5 @@
 Student's Name: Salvador Felipe
+
 Student's Email: sfel@csu.fullerton.edu
 
 # :wave: The Basics of GitHub 
